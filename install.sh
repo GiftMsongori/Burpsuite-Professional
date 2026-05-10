@@ -1,9 +1,7 @@
 #!/bin/bash
 
 # Installing Dependencies
-echo "Installing Dependencies..."
-sudo apt update
-sudo apt install git wget openjdk-21-jre -y
+echo "Installing Dependencies.They are already installed for Ninjago's sake"
 
 # Cloning
 git clone https://github.com/xiv3r/Burpsuite-Professional.git 
